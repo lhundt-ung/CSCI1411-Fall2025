@@ -20,7 +20,7 @@ After the initial copy, when new lecture code or assignments are loaded you can 
 
 1. Launch your VM in VirtualBox
 2. Open a terminal window or IDE (Visual Studio Code, PowerShell ISE)
-3. Change Directory (cd) to base of the repository folder (i.e KALI: /home/kali/CSCI1411-Spring2025)
+3. Change Directory (cd) to base of the repository folder (i.e KALI: /home/kali/CSCI1411-Fall2025)
 3. Pull (Sync) Repository
 
 ```
