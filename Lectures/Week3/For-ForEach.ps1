@@ -10,7 +10,8 @@ cd $Path                                                         #
 for($i = 0; $i -lt 100; $i=$i+1){ 
     Write-Host "i equals: $i" 
 }
-'''
+
+
 for($i = 0; $i -lt 100; $i++){ 
     Write-Host "i equals: $i" 
 }
@@ -21,7 +22,7 @@ for($i = 0; $i -lt 100; $i=$i+5){
         break
     }
 }
-'''
+
 
 
 #2. Search through  users.txt and return users with google.com email addresses
@@ -36,9 +37,9 @@ foreach($user in $users){
     if($user -like "*google.com*"){
         $userSplit = $user.split(",")
         #$userSplit.GetType()
-        #$userSplit[0]
+        #$userSplit[3]
         $userSplit[-1]
-        #Write-Host $user
+        Write-Host $user
     }
 }
 
@@ -66,7 +67,7 @@ foreach ($proc in $processes) {
 
 
 
-'''
+
 ## 4. ForLoop to parse out all .js files that run on the main website
 $web = Invoke-WebRequest "https://ung.edu" -UseBasicParsing
 
@@ -78,4 +79,3 @@ foreach($line in $webArr)
     if($line -like "*.js*")
     {Write-Host "$line"}
 }
-'''

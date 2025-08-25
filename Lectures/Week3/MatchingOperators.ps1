@@ -9,8 +9,6 @@ else{
 }
 
 
-
-'''
 #2. See if string contains HTTP
 if($matchingStr -like "*HTTP*"){
     Write-Host "Match Found"
@@ -18,14 +16,13 @@ if($matchingStr -like "*HTTP*"){
 else{
     Write-Host "Not Found"
 }
-'''
 
-'''
+
+
 #3. See if string does not contain 85.115.32.185?
 if($matchingStr -notlike "*85.115.32.185*"){
-    Write-Host "Match Found"
-}
-else{
     Write-Host "Not Found"
 }
-'''
+else{
+    Write-Host "Found"
+}
