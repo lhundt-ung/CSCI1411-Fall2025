@@ -1,29 +1,3 @@
-"PSPath","PSParentPath","PSChildName","UnixStat","PSDrive","PSProvider","PSIsContainer","UnixMode","User","Group","Size","Mode","ModeWithoutHardLink","VersionInfo","BaseName","ResolvedTarget","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","LinkTarget","UnixFileMode","Attributes"
-"Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/audit.csv","Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets","audit.csv","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rwxrwxr-x","kali","kali","138477","-----","-----","File:             /home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/audit.csv
-InternalName:     
-OriginalFilename: 
-FileVersion:      
-FileDescription:  
-Product:          
-ProductVersion:   
-Debug:            False
-Patched:          False
-PreRelease:       False
-PrivateBuild:     False
-SpecialBuild:     False
-Language:         
-","audit","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/audit.csv",,,"audit.csv","138477","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets","False","True","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/audit.csv",".csv","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM","9/14/2025 6:35:00 PM","9/14/2025 10:35:00 PM","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM",,"OtherExecute, OtherRead, GroupExecute, GroupWrite, GroupRead, UserExecute, UserWrite, UserRead","Normal"
-"Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data/adj3unempstates.csv","Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data","adj3unempstates.csv","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rwxrwxr-x","kali","kali","80743","-----","-----","File:             /home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data/adj3unempstates.csv
-InternalName:     
-OriginalFilename: 
-FileVersion:      
-FileDescription:  
-Product:          
-ProductVersion:   
-Debug:            False
-Patched:          False
-PreRelease:       False
-PrivateBuild:     False
-SpecialBuild:     False
-Language:         
-","adj3unempstates","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data/adj3unempstates.csv",,,"adj3unempstates.csv","80743","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data","False","True","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data/adj3unempstates.csv",".csv","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM","9/14/2025 6:35:00 PM","9/14/2025 10:35:00 PM","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM",,"OtherExecute, OtherRead, GroupExecute, GroupWrite, GroupRead, UserExecute, UserWrite, UserRead","Normal"
+"Name","FullName","Length","LastWriteTime"
+"audit.csv","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/audit.csv","138477","9/1/2025 1:57:19 PM"
+"adj3unempstates.csv","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data/adj3unempstates.csv","80743","9/1/2025 1:57:19 PM"
